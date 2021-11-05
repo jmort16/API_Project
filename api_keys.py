@@ -1,4 +1,4 @@
-api_key='fce8171c8014667b24aeef2340ece748'
+api_key='9fab367305cec2a40e8ba9edb8d27e65'
 
 crime_api_key = 'CzyfM1ROXZ4X1n4XEcTtvacbbBY21kv8dvBHHP9k'
 
